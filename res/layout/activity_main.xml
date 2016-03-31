@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <fragment
+        android:id="@+id/spinner"
+        android:name="com.example.inputcontrols.SpinnerFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <fragment
+        android:id="@+id/datepicker"
+        android:name="com.example.inputcontrols.DatePickerFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <fragment
+        android:id="@+id/autocompletetextview"
+        android:name="com.example.inputcontrols.AutoCompleteTextViewFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

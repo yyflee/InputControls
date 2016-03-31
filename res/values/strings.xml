@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InputControls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nodata">No Data</string>
+    <string name="title">这个例子演示Andoird常用的控件的使用方法</string>
+    <string name="showDatePickerDialog">显示DatePickerDialog对话框</string>
+    <string name="showTimePickerDialog">显示TimePickerDialog对话框</string>
+    <string name="demo_title_autocompletetextview">自动完成输入框-AutoCompleteTextView</string>
+    <string name="demo_desc_autocompletetextview">演示自动完成输入框的使用方法</string>
+    <string name="demo_title_datepicker">日期时间控件-DatePickerDialog和TimePickerDialog</string>
+    <string name="demo_desc_datepicker">演示日期时间控件的使用方法</string>
+    <string name="demo_title_spinner">下拉列表控件-Spinner</string>
+    <string name="demo_desc_spinner">演示下拉列表控件的使用方法</string>
+    <string name="demo_title_tabhost">选项卡（标签页）控件-TabHost</string>
+    <string name="demo_desc_tabhost">演示选项卡（标签页）的使用方法</string>
+    <string name="tab_1_text">列表</string>
+    <string name="tab_2_text">地图模式</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
