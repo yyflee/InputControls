@@ -1137,9 +1137,11 @@ containing a value of this type.
         public static final int spinner=0x7f05003c;
         public static final int split_action_bar=0x7f05001e;
         public static final int submit_area=0x7f050039;
+        public static final int switchbtn=0x7f050047;
         public static final int tabMode=0x7f050002;
         public static final int text_Info=0x7f05003f;
         public static final int title=0x7f05002b;
+        public static final int togglebutton=0x7f050046;
         public static final int top_action_bar=0x7f050020;
         public static final int up=0x7f050021;
         public static final int useLogo=0x7f050003;
@@ -1205,6 +1207,7 @@ containing a value of this type.
         public static final int spinner_fragment=0x7f03001f;
         public static final int spinner_item=0x7f030020;
         public static final int support_simple_spinner_dropdown_item=0x7f030021;
+        public static final int togglebutton_fragment=0x7f030022;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1252,16 +1255,18 @@ containing a value of this type.
         public static final int demo_desc_datepicker=0x7f0a0016;
         public static final int demo_desc_spinner=0x7f0a0018;
         public static final int demo_desc_tabhost=0x7f0a001a;
+        public static final int demo_desc_togglebutton=0x7f0a001c;
         public static final int demo_title_autocompletetextview=0x7f0a0013;
         public static final int demo_title_datepicker=0x7f0a0015;
         public static final int demo_title_spinner=0x7f0a0017;
         public static final int demo_title_tabhost=0x7f0a0019;
+        public static final int demo_title_togglebutton=0x7f0a001b;
         public static final int hello_world=0x7f0a000e;
         public static final int nodata=0x7f0a000f;
         public static final int showDatePickerDialog=0x7f0a0011;
         public static final int showTimePickerDialog=0x7f0a0012;
-        public static final int tab_1_text=0x7f0a001b;
-        public static final int tab_2_text=0x7f0a001c;
+        public static final int tab_1_text=0x7f0a001d;
+        public static final int tab_2_text=0x7f0a001e;
         public static final int title=0x7f0a0010;
     }
     public static final class style {

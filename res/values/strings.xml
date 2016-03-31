@@ -15,6 +15,8 @@
     <string name="demo_desc_spinner">演示下拉列表控件的使用方法</string>
     <string name="demo_title_tabhost">选项卡（标签页）控件-TabHost</string>
     <string name="demo_desc_tabhost">演示选项卡（标签页）的使用方法</string>
+    <string name="demo_title_togglebutton">开关按钮控件-TabHost</string>
+    <string name="demo_desc_togglebutton">演示开关按钮的使用方法</string>
     <string name="tab_1_text">列表</string>
     <string name="tab_2_text">地图模式</string>
 

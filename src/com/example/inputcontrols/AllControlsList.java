@@ -21,7 +21,8 @@ public class AllControlsList extends ListFragment {
 					R.string.demo_desc_datepicker, DatePickerFragment.class),
 			new DemoInfo(R.string.demo_title_spinner,
 					R.string.demo_desc_spinner, SpinnerFragment.class),
-					};
+			new DemoInfo(R.string.demo_title_togglebutton,
+					R.string.demo_desc_togglebutton, ToggleButtonFragment.class), };
 	private OnListViewItemClickListener mCallback = null;
 
 	@Override
